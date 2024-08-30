@@ -1,0 +1,54 @@
+.department{
+    height: 50px;
+    color: white;
+    font-size: 50px;
+    background-color: #0e1e6a;
+}
+
+img{
+    height: 350px;
+    width: 300px;
+    display: flex;
+}
+
+h4{
+    color: red;
+    
+}
+
+
+h4:hover{
+    color: white;
+}
+
+@import url('https://font.googleapis.com/css?family=poppins:100,200,300,400,500,600,700');
+.departimg{
+    height: 500px;
+    background: #3333;
+    font-family: poppins,sans-serif;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    margin: 0;
+}
+.departbox{
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+    display: flex;
+}
+.departbox div {
+    margin: 15px;
+    width: 800px;
+    height: 400px;
+    box-shadow: -1px 0 10px #000000;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.departphoto{
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
